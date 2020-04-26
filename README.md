@@ -71,3 +71,6 @@ __UI를 구성하는 방식__
   - 인터페이스 방향을 Portrait와 Landscape로 구분하는 것도 옛날 방식이 되었음. 
   - 대신 Size Class를 통해 UI를 표시할 수 있는 영역의 크기를 큰틀에서 구분하고, Trait Collection를 통해 상세한 인터페이스 환경을 구분하는 방식으로 변경됨. 
 
+# 
+
+- Adaptive Layout
